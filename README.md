@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/main.PNG">
+<img src="https://github.com/ShankarNarayananS/Tic-Tac-Toe/blob/master/tic.PNG">
 </p>
 
 
